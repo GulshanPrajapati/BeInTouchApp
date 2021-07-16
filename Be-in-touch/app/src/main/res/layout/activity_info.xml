@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical"
+    android:background="@color/endblue"
+    tools:context=".info">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="COPYRIGHT © 2021 Be InTouch | DEVELOPED BY Gulshan Prajapati And Abhishek Prajapati "
+        android:gravity="center_horizontal"
+        android:layout_marginTop="345sp"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="@color/white"
+        />
+
+</LinearLayout>

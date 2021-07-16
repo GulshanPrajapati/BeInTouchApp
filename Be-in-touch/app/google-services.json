@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1014384726769",
+    "firebase_url": "https://be-in-touch-8bbf6.firebaseio.com",
+    "project_id": "be-in-touch-8bbf6",
+    "storage_bucket": "be-in-touch-8bbf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014384726769:android:498f7b6aaa374fc4380f50",
+        "android_client_info": {
+          "package_name": "com.example.beintouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014384726769-mrk3vh0ei4lusa697p6ns21cbuj8sdt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beintouch",
+            "certificate_hash": "ffe94f065f2bf1caf08049ea88fa671e836a4e31"
+          }
+        },
+        {
+          "client_id": "1014384726769-d6vkht05p292h9lgqr185jfpq9khpf0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUxS97nMehNlMU-6x9o7zEWrj2LRic7k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014384726769-d6vkht05p292h9lgqr185jfpq9khpf0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
